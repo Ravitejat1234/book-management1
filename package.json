@@ -1,0 +1,25 @@
+{
+  "name": "book-management1",
+  "version": "1.0.0",
+  "description": "book mgmt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raviteja1234/book-management1.git"
+  },
+  "author": "rt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raviteja1234/book-management1/issues"
+  },
+  "homepage": "https://github.com/Raviteja1234/book-management1#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
